@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.medgest</groupId>
-	<artifactId>pagamentos</artifactId>
+	<artifactId>pedidos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>pagamentos</name>
-	<description>MS de pagamentos da MedGest</description>
+	<name>pedidos</name>
+	<description>MS de pedidos da MedGest</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
